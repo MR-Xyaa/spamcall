@@ -1,14 +1,14 @@
 import os, sys
 
 #install mulai-spam
-figlet print Install Bahan | lolcat
+print Install Bahan
 sleep 2
 
 pkg install python git
 sleep 2
 
 git clone https://github.com/MR-Xyaa/spamcall
-figlet print selesai | lolcat
+print selesai
 sleep 1
 
 cd script
