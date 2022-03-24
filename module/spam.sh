@@ -5,12 +5,10 @@ figlet Install Bahan | lolcat
 sleep 2
 
 pkg install python
-
+pip install requests
 figlet selesai | lolcat
 sleep 1
 
-pip install requests
-sleep 1
 
 # tampilan
 clear
