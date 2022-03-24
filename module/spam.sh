@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#install spamcall
+#install run-spam
 figlet Sabar Install Bahan | lolcat
 sleep 2
 
