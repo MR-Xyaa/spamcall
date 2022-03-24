@@ -8,7 +8,7 @@ pkg install python git
 sleep 2
 
 git clone https://github.com/MR-Xyaa/spamcall
-figlet selesai | lolcat
+figlet print selesai | lolcat
 sleep 1
 
 cd script
