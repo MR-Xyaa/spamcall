@@ -1,6 +1,6 @@
 #!/bin/sh
 
-#install run-spam
+#install mulai-spam
 figlet Sabar Install Bahan | lolcat
 sleep 2
 
@@ -8,7 +8,7 @@ git clone https://github.com/MR-Xyaa/spamcall
 figlet selesai Tod | lolcat
 sleep 1
 
-cd module
+cd script
 sleep 1
 
 # tampilan
@@ -26,5 +26,5 @@ echo "=> Follow FB dan Github Gw yakk^^            "
 echo
 echo "=============================================" | lolcat
 
-python run-spam.py
+python mulai-spam.py
 
