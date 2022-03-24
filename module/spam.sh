@@ -4,12 +4,11 @@
 figlet Sabar Install Bahan | lolcat
 sleep 2
 
-git clone https://github.com/MrVirusSpm-07/projects-spam-call
-
+https://github.com/MR-Xyaa/spamcall
 figlet selesai Tod | lolcat
 sleep 1
 
-cd projects-spam-call
+cd module
 sleep 1
 
 # tampilan
@@ -27,5 +26,5 @@ echo "=> Follow FB dan Github Gw yakk^^            "
 echo
 echo "=============================================" | lolcat
 
-python projects.py
+python run-spam.py
 
