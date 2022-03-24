@@ -29,5 +29,5 @@ echo "=> Follow FB dan Github Gw yakk^^            "
 echo
 echo "=============================================" | lolcat
 
-sh mulai-spam.sh
+python mulai-spam.py
 
