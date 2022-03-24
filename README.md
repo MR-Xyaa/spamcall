@@ -6,4 +6,4 @@
 # run script
 - git clone https://github.com/MR-Xyaa/spamcall
 - cd spamcall
-- sh
+- sh spamcall.sh
