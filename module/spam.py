@@ -1,7 +1,7 @@
 import os, sys
 
 #install mulai-spam
-figlet Install Bahan | lolcat
+figlet print Install Bahan | lolcat
 sleep 2
 
 pkg install python git
