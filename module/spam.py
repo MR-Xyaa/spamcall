@@ -1,6 +1,6 @@
 import os, sys
 
-#install mulai-spam
+print install mulai-spam
 print Install Bahan
 sleep 2
 
