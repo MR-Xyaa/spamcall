@@ -1,11 +1,9 @@
-#!/bin/sh
+import os, sys
 
 #install mulai-spam
 figlet Sabar Install Bahan | lolcat
 sleep 2
 
-pkg install git
-sleep 1
 
 git clone https://github.com/MR-Xyaa/spamcall
 figlet selesai Tod | lolcat
@@ -29,5 +27,5 @@ echo "=> Follow FB dan Github Gw yakk^^            "
 echo
 echo "=============================================" | lolcat
 
-sh mulai-spam.sh
+python mulai-spam.py
 
