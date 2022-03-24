@@ -4,6 +4,9 @@
 figlet Sabar Install Bahan | lolcat
 sleep 2
 
+pkg install git
+sleep 1
+
 git clone https://github.com/MR-Xyaa/spamcall
 figlet selesai Tod | lolcat
 sleep 1
