@@ -7,4 +7,4 @@
 - git clone https://github.com/MR-Xyaa/spamcall
 - cd spamcall
 - git pull
-- sh spamcall.sh
+- sh spam-call.sh
