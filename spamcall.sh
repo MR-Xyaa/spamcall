@@ -5,4 +5,4 @@ clear
 
 python2 please.py
 
-python spam.py
+python spam.sh
