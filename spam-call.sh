@@ -4,6 +4,7 @@ cd module
 clear
 
 python2 please.py
+python load.py
 
 sh spam.sh
 
