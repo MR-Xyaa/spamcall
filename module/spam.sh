@@ -12,14 +12,14 @@ sleep 1
 
 # tampilan
 clear
-toilet -f big -F gay SpamCall 
+toilet -f slant "SpamCall";
 echo "=============================================" | lolcat
 echo "[•] Author : MR-Xyaa                         "
 echo "[•] FB     : Xyaa Xyaa                         "
 echo "[•] GitHub : github.com/MR-Xyaa              "
 echo "=============================================" | lolcat
 echo
-echo "=> 3x Spam Tunggu 20menit                    "
+echo "=> 2x Spam Tunggu 20menit                    "
 echo "=> Jangan Berlebihan                         "
 echo "=> Follow FB dan Github Gw yakk^^            "
 echo
